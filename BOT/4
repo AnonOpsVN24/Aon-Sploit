@@ -1,2 +1,19 @@
-PROGRAM="d2hpdGU9IlwwMzNbMTszN20iCmdyZXk9IlwwMzNbMDs5MG0iCnB1cnBsZT0iXDAzM1swOzM1bSIKcmVkPSJcMDMzWzE7MzFtIgpncmVlbj0iXDAzM1sxOzMybSIKeWVsbG93PSJcMDMzWzE7MzNtIgpwdXJwbGU9IlwwMzNbMDszNW0iCmN5YW49IlwwMzNbMDszNm0iCmNhZmU9IlwwMzNbMDszM20iCmNsZWFyCmVjaG8gLWUgIiRjeWFuCl9fX19fX19fX19fXwo8IGFvbnNwbG9pdCA+CiAtLS0tLS0tLS0tLS0KICAgICAgIFwgICAsX18sCiAgICAgICAgXCAgKG9vKV9fX18KICAgICAgICAgICAoX18pICAgIClcCiAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgfHwtLXx8ICoiCg=="
-bash <( base64 <<< "$PROGRAM" )
+white="\033[1;37m"
+grey="\033[0;90m"
+purple="\033[0;35m"
+red="\033[1;31m"
+green="\033[1;32m"
+yellow="\033[1;33m"
+purple="\033[0;35m"
+cyan="\033[0;36m"
+cafe="\033[0;33m"
+clear
+echo -e "$cyan
+____________
+< aonsploit >
+ ------------
+       \   ,__,
+        \  (oo)____
+           (__)    )\
+
+              ||--|| *"
