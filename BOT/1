@@ -1,0 +1,30 @@
+white="\033[1;37m"
+grey="\033[0;90m"
+purple="\033[0;35m"
+red="\033[1;31m"
+green="\033[1;32m"
+yellow="\033[1;33m"
+purple="\033[0;35m"
+cyan="\033[0;36m"
+cafe="\033[0;33m"
+echo -e "$cyan
+$red..............
+$red            ..,;:ccc,.
+$red          ......''';lxO.
+$yellow.....''''..........,:ld;
+$yellow           .';;;:::;,,.x,
+$yellow      ..'''.            0Xxoc:,.  ...
+$green  ....                ,ONkc;,;cokOdc',.
+$green .                   OMo           ':ddo.
+$green                    dMc               :OO;
+$cyan                    0M.                 .:o.
+$cyan                    ;Wd
+$cyan                     ;XO,
+$purple                       ,d0Odlc;,..
+$purple                           ..',;:cdOOd::,.
+$purple                                    .:d;.':;.
+$red                                       'd,  .'
+$red                                         ;l   ..
+$red                                          .o
+$yellow                                            c
+$yellow
