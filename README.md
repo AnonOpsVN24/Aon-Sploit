@@ -19,3 +19,5 @@ Sử dụng người dùng telnet đã biết và mật khẩu gốc để đăn
 CVE-2018-17336
 UDisks <=2.8.0 DoS
 Đây là mã ví dụ làm hỏng udisks2 thông qua nhãn hệ thống tệp không đúng định dạng mà khi được gắn rồi ghi nhật ký, tồn tại một lỗ hổng định dạng chuỗi cho phép đọc/ghi bộ nhớ tùy ý với quyền root.
+# Image
+<img src="https://raw.githubusercontent.com/AnonOpsVN24/Aon-Sploit/main/Screenshot_2023-02-02-22-30-24-33.jpg" >
