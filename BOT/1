@@ -1,2 +1,29 @@
-PROGRAM="d2hpdGU9IlwwMzNbMTszN20iCmdyZXk9IlwwMzNbMDs5MG0iCnB1cnBsZT0iXDAzM1swOzM1bSIKcmVkPSJcMDMzWzE7MzFtIgpncmVlbj0iXDAzM1sxOzMybSIKeWVsbG93PSJcMDMzWzE7MzNtIgpwdXJwbGU9IlwwMzNbMDszNW0iCmN5YW49IlwwMzNbMDszNm0iCmNhZmU9IlwwMzNbMDszM20iCmVjaG8gLWUgIiRjeWFuCiRyZWQuLi4uLi4uLi4uLi4uLgokcmVkICAgICAgICAgICAgLi4sOzpjY2MsLgokcmVkICAgICAgICAgIC4uLi4uLicnJztseE8uCiR5ZWxsb3cuLi4uLicnJycuLi4uLi4uLi4uLDpsZDsKJHllbGxvdyAgICAgICAgICAgLic7Ozs6Ojo7LCwueCwKJHllbGxvdyAgICAgIC4uJycnLiAgICAgICAgICAgIDBYeG9jOiwuICAuLi4KJGdyZWVuICAuLi4uICAgICAgICAgICAgICAgICxPTmtjOyw7Y29rT2RjJywuCiRncmVlbiAuICAgICAgICAgICAgICAgICAgIE9NbyAgICAgICAgICAgJzpkZG8uCiRncmVlbiAgICAgICAgICAgICAgICAgICAgZE1jICAgICAgICAgICAgICAgOk9POwokY3lhbiAgICAgICAgICAgICAgICAgICAgME0uICAgICAgICAgICAgICAgICAuOm8uCiRjeWFuICAgICAgICAgICAgICAgICAgICA7V2QKJGN5YW4gICAgICAgICAgICAgICAgICAgICA7WE8sCiRwdXJwbGUgICAgICAgICAgICAgICAgICAgICAgICxkME9kbGM7LC4uCiRwdXJwbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAuLicsOzpjZE9PZDo6LC4KJHB1cnBsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC46ZDsuJzo7LgokcmVkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2QsICAuJwokcmVkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7bCAgIC4uCiRyZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubwokeWVsbG93ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjCiR5ZWxsb3c="
-bash <( base64 -d <<< "$PROGRAM" )
+white="\033[1;37m"
+grey="\033[0;90m"
+purple="\033[0;35m"
+red="\033[1;31m"
+green="\033[1;32m"
+yellow="\033[1;33m"
+purple="\033[0;35m"
+cyan="\033[0;36m"
+cafe="\033[0;33m"
+echo -e "$cyan
+$red..............
+$red            ..,;:ccc,.
+$red          ......''';lxO.
+$yellow.....''''..........,:ld;
+$yellow           .';;;:::;,,.x,
+$yellow      ..'''.            0Xxoc:,.  ...
+$green  ....                ,ONkc;,;cokOdc',.
+$green .                   OMo           ':ddo.
+$green                    dMc               :OO;
+$cyan                    0M.                 .:o.
+$cyan                    ;Wd
+$cyan                     ;XO,
+$purple                       ,d0Odlc;,..
+$purple                           ..',;:cdOOd::,.
+$purple                                    .:d;.':;.
+$red                                       'd,  .'
+$red                                         ;l   ..
+$red                                          .o
+$yellow                                            c"
